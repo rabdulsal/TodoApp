@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-Odot::Application.load_tasks
+TodoApp::Application.load_tasks
